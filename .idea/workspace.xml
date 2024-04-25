@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78129dd1-a731-45b8-8419-208b24bb5b27" name="Changes" comment="" />
+    <list default="true" id="78129dd1-a731-45b8-8419-208b24bb5b27" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abril18.2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Abril18.2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abril18.2/src/main/java/com/softtek/controlador/ControladorProducto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Abril18.2/src/main/java/com/softtek/controlador/ControladorProducto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abril18.2/src/main/java/com/softtek/repo/Conexion.java" beforeDir="false" afterPath="$PROJECT_DIR$/Abril18.2/src/main/java/com/softtek/repo/Conexion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abril18.2/src/main/java/com/softtek/repo/IProductoRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Abril18.2/src/main/java/com/softtek/repo/IProductoRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abril18.2/src/main/java/com/softtek/repo/ProductoRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Abril18.2/src/main/java/com/softtek/repo/ProductoRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abril18.2/src/main/java/com/softtek/servicio/IProductoServicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/Abril18.2/src/main/java/com/softtek/servicio/IProductoServicio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abril18.2/src/main/java/com/softtek/servicio/ProductoServicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/Abril18.2/src/main/java/com/softtek/servicio/ProductoServicio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abril18.2/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Abril18.2/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,43 +23,60 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;bibifupi&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/bibifupi/Abril18.2.git&quot;,
+    &quot;accountId&quot;: &quot;ca04a7ae-1d5c-4bd2-85a9-9420b284cad9&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2fGmcCZ7tbp1KruIe5c40Nt02K3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ej1.executor": "Run",
-    "Application.ej2.executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Spring Boot.Application (1).executor": "Run",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/debora.fuentes/Downloads/Abril18",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.editor",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ej1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ej2.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.Application (1).executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/debora.fuentes/Downloads/Abril18&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Spring Boot.Application (1)">
     <configuration name="ej1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.softtek.zOptional.ej1" />
@@ -114,7 +141,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713435865492</updated>
-      <workItem from="1713435866646" duration="11577000" />
+      <workItem from="1713435866646" duration="11899000" />
+      <workItem from="1713858144526" duration="1579000" />
+      <workItem from="1714032047291" duration="3489000" />
+      <workItem from="1714035634243" duration="1030000" />
     </task>
     <servers />
   </component>

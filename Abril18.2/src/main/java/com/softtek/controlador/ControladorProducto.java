@@ -1,3 +1,4 @@
+
 package com.softtek.controlador;
 
 import com.softtek.modelo.Producto;
@@ -10,6 +11,9 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/productos")
+@CrossOrigin(origins = "http://localhost:4200")
+
+
 public class ControladorProducto {
 
     @Autowired
@@ -20,23 +24,26 @@ public class ControladorProducto {
 
         return servicio.obtenerTodos();
     }
+
     @GetMapping("/{id}")
     public Producto obtenerId(@PathVariable int id) throws SQLException, ClassNotFoundException {
         return servicio.obtenerId(id);
     }
+
     @PostMapping
     public void insertarProducto(@RequestBody Producto producto) throws SQLException, ClassNotFoundException {
         servicio.insertarProducto(producto);
     }
+
     @PutMapping
     public void actualizarProducto(@RequestBody Producto productos) throws SQLException, ClassNotFoundException {
         servicio.actualizarProducto(productos);
     }
+
     @DeleteMapping("/{id}")
     public void borrarProducto(@PathVariable int id) throws SQLException, ClassNotFoundException {
         servicio.borrarProducto(id);
     }
-
 
 
 }
